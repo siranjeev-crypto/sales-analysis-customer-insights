@@ -22,49 +22,49 @@
 ## Key Analysis
 
 ### Sales Trend Analysis
-![Sales Trend](images/sales_trend.png)
+![Sales Trend](sales_trend.png)
 
 - Sales fluctuate over time with noticeable peaks  
 - Indicates seasonal demand and high value transactions  
 
 ### Category wise Sales
-![Category Sales](images/Sales_by_category.png)
+![Category Sales](Sales_by_category.png)
 
 - Technology generates the highest sales  
 - Furniture and Office Supplies contribute significantly  
 
 ### Profit by Category
-![Category Profit](images/Profit_category.png)
+![Category Profit](Profit_category.png)
 
 - Technology leads in profitability  
 - Furniture shows lower profit margins  
 
 ### Top 10 Products
-![Top Products](images/Top_product_by_sales.png)
+![Top Products](Top_product_by_sales.png)
 
 - A small number of products dominate sales  
 - Revenue is highly concentrated  
 
 ### Regional Sales Analysis
-![Regional Sales](images/Regional_sales.png)
+![Regional Sales](Regional_sales.png)
 
 - West region performs best  
 - South region underperforms  
 
 ### Sales vs Profit
-![Sales vs Profit](images/Sales_Vs_Profit.png)
+![Sales vs Profit](Sales_Vs_Profit.png)
 
 - High sales do not always lead to high profit  
 - Some transactions result in losses  
 
 ### Discount vs Profit
-![Discount vs Profit](images/Discount_Vs_Profit.png)
+![Discount vs Profit](Discount_Vs_Profit.png)
 
 - Higher discounts reduce profitability  
 - Strong negative relationship observed  
 
 ### Correlation Matrix
-![Correlation](images/Correlation_matrix.png)
+![Correlation](Correlation_matrix.png)
 
 - Sales and Profit show moderate positive correlation  
 - Discount negatively impacts profit  
