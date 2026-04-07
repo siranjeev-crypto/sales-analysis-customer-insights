@@ -22,7 +22,7 @@
 ## Key Analysis
 
 ### Sales Trend Analysis
-![Sales Trend](sales_trend.png)
+![Sales Trend](Sales_trend.png)
 
 - Sales fluctuate over time with noticeable peaks  
 - Indicates seasonal demand and high value transactions  
